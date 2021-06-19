@@ -1817,6 +1817,7 @@ input, select, textarea {
 	}
 
 	input[type="text"],
+	input[type="tel"],
 	input[type="password"],
 	input[type="email"],
 	select,
